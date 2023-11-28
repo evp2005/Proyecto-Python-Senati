@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Martillo",
+        "precio": 12.99,
+        "categoria": "Herramientas",
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "nombre": "Tornillos",
+        "precio": 0.99,
+        "categoria": "Fijaciones",
+        "stock": 500
+    },
+    {
+        "id": 3,
+        "nombre": "Destornillador",
+        "precio": 6.49,
+        "categoria": "Herramientas",
+        "stock": 75
+    },
+    {
+        "id": 4,
+        "nombre": "Pintura",
+        "precio": 19.99,
+        "categoria": "Pinturas",
+        "stock": 30
+    },
+    {
+        "id":5,
+        "nombre": "Cinta Métrica",
+        "precio": 3.75,
+        "categoria": "Herramientas",
+        "stock": 40
+    }
+]
